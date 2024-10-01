@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Question 1_2</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <!-- Feuille de style -->
+    <link href="css/style.css" rel="stylesheet">
+
+
+    <!--Librairie-->
+    <script src="js/Snap.svg-0.5.1/dist/snap.svg-min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/MotionPathPlugin.min.js"></script>
+    <!-- Scripts Js -->
+    <script src="js/script.js"></script>
+
+
+
+
+</head>
+</head>
+
+<body>
+    <svg id="svg"></svg>
+
+    <div id="logo">
+        <img src="images/The_Times_(logo).png" alt="logo the Times">
+    </div>
+    <div id="intro">
+        <h1>The Times’ perspective on 2030 objectives : electrical infrastructures in the Loire department (France)</h1>
+        <h2>The electric vehicle fleet is evolving along with the infrastructure.</h2>
+        <h3>The Times Leading Articles ｜Thursday September 27 2024, 10.01 pm UTC+2, The Times</h3>
+        <img id="imgIntro" src="images/voiture elec loire.png"
+            alt="An e-totem electric charging point has been available at Place Fourneyron since 14 April 2022. It is the 100th to be installed in the Saint-Etienne metropolitan area.">
+        <p>An e-totem electric charging point has been available at Place Fourneyron since 14 April 2022. It is the
+            100th to
+            be installed in the Saint-Etienne metropolitan area.</p>
+        <p>Photo Progrès /Sabine PERRAULT</p>
+    </div>
+    <p>Leading page</p>
+    <div id="text">
+
+        <p>The French government is ‘committed to cleaner mobility’. In view of the worsening climate, targets have been
+            set
+            to reduce the carbon impact. The development of sustainable mobility operations is being driven by work to
+            promote the use of electric cars and the infrastructure needed to recharge them.<br>
+            For 2030, the government is ‘mobilising all five of the following levers :<br>
+
+            - decarbonising the energy consumed by vehicles,
+            - energy efficiency of vehicles to limit energy consumption,
+            - controlling the growth in demand,
+            - modal shift and
+            - optimising the use of vehicles for both passenger and freight transport’. One of the main objectives in
+            meeting these levers is to increase the proportion of electric cars in the vehicle fleet to ‘15% by
+            2030’.<br><br>
+
+            Is it feasible?<br>
+
+            Let's take the Loire as an example. A French department located in the Auvergne-Rhône-Alpes region, its
+            industrial history and dynamic economic development set it apart. With its 18 hydraulic dams, the Loire
+            produces
+            a large amount of green electricity for its inhabitants, helping to meet the strong demand and the desire to
+            adopt renewable energies.
+            On a road network of over 13,000 kilometres, 122,716 electric cars were registered between 1 January 2020
+            and 31
+            March 2024. However, this only represents 1.12% of the total number of vehicles on the road.<br><br>
+
+            Will the Loire be able to meet the government's targets?<br>
+
+            To find out whether the Loire will achieve the 15% target for cars, we need to look ahead to 2030. It is
+            important not to take 2024 into account, as the year is not complete, which is why a forecast is made from
+            that
+            year to 2030. Based on the average rate of change from 2020 to 2023, it will be reused to establish the
+            sales
+            forecast, and then the market share is calculated as normal. It is clear that the number of electric
+            personal
+            vehicles will outnumber other types of car before 2030. According to these forecasts, it's a successful
+            gamble
+            for the Loire, with more than 12% of electric cars on the road.<br><br>
+
+
+        <div id="evolution"></div><br>
+        <button id="btnHideCars">Hide vehicles from non-renewable energies</button>
+        <button id="rotateGraph">Lets turn the graph</button><br><br>
+        With the rapid increase in the number of electric cars, is the Loire managing to control the demand for
+        recharging?<br>
+
+        <img id="borne" src="images/graph_Borne.svg"><br>
+        With a total of 152 facilities, the 5 towns with the most are grouped together in the same sector, and more
+        specifically in the Saint-Etienne Métropole intercommunal area. What's more, the town with the most chargers is
+        Saint-Etienne, with 70. This can be explained by its status as the Prefecture and largest city in the Loire,
+        with 172,718 inhabitants. Even if it doesn't account for half of the total infrastructure, Saint-Etienne remains
+        the major city. The second city with the most facilities is Saint-Chamond, which is a long way behind with just
+        12 facilities. Then there's Andrézieux-Bouthéon and Rive-de-Gier, each with just 6 facilities. Last in the top 5
+        is Saint-Priest-en-Jarez, with 5 facilities. This total of 4 towns represents a quarter of all the shippers in
+        Saint-Etienne.<br><br>
+
+        Does this distribution of facilities depend on the spread of electric cars?<br>
+
+        <img id="loire" src="images/graph_Loire.svg"><br>
+
+        Once again, this is reflected in the fact that the largest number of infrastructures are located in the
+        Saint-Etienne metropolitan area. This can be explained by the large number of electric cars. The observation is
+        blatantly obvious: only 5 of the 11 inter-municipalities have infrastructure, and 4 of these have just 11. In
+        other words, not all the facilities have the same type of recharging point, so we hope we're lucky enough to
+        have a facility close to home with the right socket, or we live directly in the Saint-Etienne Métropole
+        intercommunal area. Beyond these towns, it will be complicated to recharge an electric car for the time being,
+        unless it's at home.
+        Clearly, the number of electric cars has an impact on the number of infrastructures. The more cars there are,
+        the more infrastructure is needed. Charging stations are important for electric cars, which can travel between
+        350 and 250 kilometres. But they are not necessary to keep the electric car fleet running. Most electric car
+        owners charge their cars at home.<br><br>
+
+        All in all, the Loire is making good progress in terms of electric car ownership. More and more infrastructure
+        is being built in different towns, offering different plugs. Thanks to this mobilisation, the government's
+        objective will be achieved with renewable energy cars. Fossil-fuelled cars will continue to exist, but will they
+        slow progress?</p>
+    </div>
+
+
+</body>
+
+</html>

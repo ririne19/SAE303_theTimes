@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1104.96 1429.38">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        mask: url(#mask);
+      }
+
+      .cls-4 {
+        fill: #708997;
+      }
+
+      .cls-5 {
+        stroke-width: 6px;
+      }
+
+      .cls-5, .cls-6, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        fill: #7bcd71;
+      }
+
+      .cls-10 {
+        fill: #12364e;
+      }
+
+      .cls-6, .cls-11 {
+        fill: #f7f7f7;
+      }
+
+      .cls-12 {
+        fill: #97d1f2;
+      }
+
+      .cls-13 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-16, .cls-8 {
+        font-family: TimesNewRomanPS-ItalicMT, 'Times New Roman';
+        font-size: 18px;
+        font-style: italic;
+      }
+
+      .cls-17 {
+        font-family: TimesNewRomanPS-BoldMT, 'Times New Roman';
+        font-size: 36px;
+        font-weight: 700;
+      }
+    </style>
+    <mask id="mask" x="611.27" y="819.34" width="195.7" height="259.53" maskUnits="userSpaceOnUse">
+      <path class="cls-7" d="M615.77,841.67v237.2h191.2l-46.48-147.5,1.57-3.85c-2.74-.96-10.36-7.72-11.53-9.3l-72.44-98.88-62.32,22.33Z"/>
+    </mask>
+  </defs>
+  <g id="titre">
+    <text class="cls-17" transform="translate(116.55 586.35)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan x="20.71" y="0">op 5 towns in the Loi</tspan><tspan class="cls-14" x="341.77" y="0">r</tspan><tspan x="357.1" y="0">e with the most infrastructu</tspan><tspan class="cls-14" x="785.04" y="0">r</tspan><tspan x="800.37" y="0">e</tspan></text>
+  </g>
+  <g id="borne">
+    <g id="borne-2" data-name="borne">
+      <path class="cls-11" d="M427.55,1382.07s-26.26,30.76,0,38.64l22.54,2.61s107.07,11.26,146.08,2.64l18.56-5.62s26.26-4.13,0-38.26l1.41-641.03s8.5-.49,10.26-5.2v-19.59s8.16-10.54,0-18.6l-8.16-8.06h-190.3l-12.06,11.42s-3.03,7.03,2.82,12.21l.84,22.22s1.47,2.11,8.16,4.24l-.14,642.38Z"/>
+      <path d="M448.75,728.93h145.21l-.48,657.07s15.47,4.19,21.24-3.93c0,0,26.32,30.39,0,38.26,0,0-26.74,20.12-187.17.38,0,0-26.27-7.35,0-38.64,0,0,15.1,8.76,20.89,3.93l.31-657.07Z"/>
+      <path d="M616.13,741.03s8.5-.49,10.26-5.2v-19.59s8.16-10.54,0-18.6l-8.16-8.06h-190.3l-12.06,11.42s-3.03,7.03,2.82,12.21l.84,22.22s1.47,2.11,8.16,4.24l188.44,1.35Z"/>
+      <path class="cls-1" d="M709.46,759.44l188.44,1.35-188.44-1.35Z"/>
+    </g>
+    <line class="cls-2" x1="448.44" y1="1386" x2="593.48" y2="1386"/>
+  </g>
+  <g id="total_infra">
+    <text class="cls-8" transform="translate(452.19 715.31)"><tspan x="0" y="0">152 infrastructu</tspan><tspan class="cls-15" x="116.51" y="0">r</tspan><tspan x="122.84" y="0">es</tspan></text>
+  </g>
+  <g id="cable">
+    <g class="cls-3">
+      <path class="cls-5" d="M612.53,872.47s59.6,27.55,46.95,71.22-7.73,118.41,47.76,118,33.01-60.21,10.54-59.54c-22.47.67-18.26,30.24,7.02,19.49s46.86-43,17.11-49.72c-29.75-6.72,38.5,62.23,17.72-4.83-20.78-67.06,14.84-46.12,14.84-46.12"/>
+    </g>
+  </g>
+  <g id="pistolet">
+    <g id="pistolet-2" data-name="pistolet">
+      <path class="cls-6" d="M761.97,926.94s-7.01-3.22-10.81-8.77l5.41-8.48-2.19-2.63,39.46-39.46s13.74-9.06,42.67-8.48v29.81l-34.49-2.63-11.69,9.06s-6.14,16.95-12.57,16.37l-15.78,15.2Z"/>
+      <polyline class="cls-6" points="756.57 909.69 767.66 910.43 777.76 911.74"/>
+      <path class="cls-6" d="M834.75,888.81l-8.06-25.74s-21.92-2.38-28.75,2.44"/>
+    </g>
+  </g>
+  <g id="Saint_priest">
+    <text class="cls-16" transform="translate(77.19 1369.41)"><tspan x="0" y="0">Saint-Priest-en-Ja</tspan><tspan class="cls-15" x="131.96" y="0">r</tspan><tspan x="138.3" y="0">ez</tspan></text>
+    <text class="cls-16" transform="translate(285.7 1369.41)"><tspan x="0" y="0">5</tspan></text>
+  </g>
+  <g id="sainte">
+    <text class="cls-16" transform="translate(287.45 1013.85)"><tspan x="0" y="0">70</tspan></text>
+    <text class="cls-16" transform="translate(78.07 1009.34)"><tspan x="0" y="0">Saint-Etienne</tspan></text>
+  </g>
+  <g id="st_cham">
+    <text class="cls-16" transform="translate(78.2 1327.25)"><tspan x="0" y="0">Saint-Chamond</tspan></text>
+    <text class="cls-16" transform="translate(286.35 1327.52)"><tspan x="0" y="0">12</tspan></text>
+  </g>
+  <g id="andrez">
+    <text class="cls-16" transform="translate(77.32 1346.87)"><tspan x="0" y="0">Andrézieux-Bouthéon &amp; Rive-de-Gier</tspan></text>
+    <text class="cls-16" transform="translate(373.28 1359.04)"><tspan x="0" y="0">6</tspan></text>
+  </g>
+  <g id="fond_sainte">
+    <rect id="fond_sainte-2" data-name="fond_sainte" class="cls-9" x="448.44" y="1009.34" width="145.04" height="376.66"/>
+    <line class="cls-2" x1="313.79" y1="1009.34" x2="593.51" y2="1009.34"/>
+  </g>
+  <g id="fond_st_cham">
+    <rect id="fond_st_cham-2" data-name="fond_st_cham" class="cls-12" x="448.62" y="1320.69" width="145.04" height="65.31"/>
+    <line class="cls-2" x1="310.03" y1="1320.69" x2="593.51" y2="1320.69"/>
+  </g>
+  <g id="fond_andrez">
+    <rect id="fond_andrez-2" data-name="fond_andrez" class="cls-10" x="448.44" y="1356.19" width="145.04" height="29.61"/>
+    <line class="cls-2" x1="388.86" y1="1356.19" x2="593.51" y2="1356.19"/>
+  </g>
+  <g id="fond_st_priest">
+    <rect id="font_st_priest" class="cls-4" x="448.44" y="1364.65" width="145.04" height="21.15"/>
+    <line class="cls-2" x1="300.3" y1="1364.65" x2="593.51" y2="1364.65"/>
+  </g>
+</svg>

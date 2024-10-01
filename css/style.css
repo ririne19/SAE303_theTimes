@@ -1,0 +1,19 @@
+body{
+    margin :0;
+    width: 100vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+img{
+    width: 50%;
+}
+
+#evolution{
+    width : 50%;
+}
+
+#svg {
+    pointer-events: none; /* Laisse les clics passer au travers du SVG */
+    position: fixed;
+}
